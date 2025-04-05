@@ -1,0 +1,167 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Max 90",
+      "description": "The Nike Air Max 90 stays true to its OG running roots with the iconic Waffle outsole, stitched overlays and classic TPU details. Classic colors celebrate your fresh look while Max Air cushioning adds comfort to the journey.",
+      "price": 120.00,
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/skwgyqrbfzhu6uyeh0gg/air-max-90-shoes-mnCmVT.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/r3tkj0ysistjhjfpkwst/air-max-90-shoes-mnCmVT.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/pupr8flkoqhumido2vij/air-max-90-shoes-mnCmVT.png"
+      ],
+      "brand": "Nike",
+      "availableColors": ["White", "Black", "Red"],
+      "availableSizes": [7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0],
+      "isNewArrival": false,
+      "popularity": 4.7,
+      "reviews": [
+        {
+          "userName": "JohnD",
+          "rating": 5.0,
+          "comment": "Great shoes! Very comfortable for all-day wear.",
+          "date": "2023-05-15T10:30:00.000Z"
+        },
+        {
+          "userName": "SneakerFan",
+          "rating": 4.5,
+          "comment": "Classic design and good quality, but runs slightly small.",
+          "date": "2023-05-30T14:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ultraboost 22",
+      "description": "Responsive shoes built for a smooth, energized ride. The adidas Ultraboost 22 delivers incredible comfort and energy return with each stride thanks to a full-length Boost midsole.",
+      "price": 180.00,
+      "images": [
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fbaf991a78bc4896a3e9ad7800abcec6_9366/Ultraboost_22_Shoes_Black_GZ0127_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad92ca383b054f0abd23ad7800aaf9a6_9366/Ultraboost_22_Shoes_Black_GZ0127_02_standard_hover.jpg"
+      ],
+      "brand": "Adidas",
+      "availableColors": ["Black", "White", "Blue"],
+      "availableSizes": [7.0, 8.0, 9.0, 10.0, 11.0, 12.0],
+      "isNewArrival": true,
+      "popularity": 4.8,
+      "reviews": [
+        {
+          "userName": "RunnerPro",
+          "rating": 5.0,
+          "comment": "Best running shoes I've ever owned. Great support.",
+          "date": "2023-06-05T08:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chuck Taylor All Star",
+      "description": "The Converse Chuck Taylor All Star is the iconic sneaker that started it all. With its timeless silhouette and unmistakable ankle patch, it's been a symbol of self-expression for generations.",
+      "price": 55.00,
+      "images": [
+        "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dw4e5db9ab/images/d_08/M9160_D_08X1.jpg",
+        "https://www.converse.com/dw/image/v2/BCZC_PRD/on/demandware.static/-/Sites-cnv-master-catalog/default/dwcbc7e8c5/images/e_08/M9160_E_08X1.jpg"
+      ],
+      "brand": "Converse",
+      "availableColors": ["Black", "White", "Red", "Navy"],
+      "availableSizes": [5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 12.0],
+      "isNewArrival": false,
+      "popularity": 4.5,
+      "reviews": [
+        {
+          "userName": "ClassicFan",
+          "rating": 5.0,
+          "comment": "Can't go wrong with Chucks. My 5th pair and counting!",
+          "date": "2023-04-22T12:15:00.000Z"
+        },
+        {
+          "userName": "MusicLover",
+          "rating": 4.0,
+          "comment": "Great classic look, but not much arch support.",
+          "date": "2023-05-10T16:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fresh Foam 1080v12",
+      "description": "The New Balance Fresh Foam 1080v12 is designed for supreme comfort on daily runs. With a precision-engineered midsole, plush feel, and dialed-in fit, it delivers premium comfort for every mile.",
+      "price": 159.99,
+      "images": [
+        "https://nb.scene7.com/is/image/NB/m1080k12_nb_02_i?$pdpflexf2$&wid=440&hei=440",
+        "https://nb.scene7.com/is/image/NB/m1080k12_nb_05_i?$pdpflexf2$&wid=440&hei=440"
+      ],
+      "brand": "New Balance",
+      "availableColors": ["Blue", "Black", "Grey"],
+      "availableSizes": [8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5, 12.0],
+      "isNewArrival": true,
+      "popularity": 4.6,
+      "reviews": [
+        {
+          "userName": "MarathonRunner",
+          "rating": 5.0,
+          "comment": "Perfect for long distances. Very responsive and durable.",
+          "date": "2023-05-28T09:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Old Skool",
+      "description": "The Vans Old Skool is a classic skate shoe and the first to bear the iconic side stripe. Built for performance and worn for style, they feature suede and canvas uppers, supportive padded collars, and signature rubber waffle outsoles.",
+      "price": 70.00,
+      "images": [
+        "https://images.vans.com/is/image/VansEU/VN000D3HY28-HERO?$PDP-FULL-IMAGE$",
+        "https://images.vans.com/is/image/VansEU/VN000D3HY28-ALT1?$PDP-FULL-IMAGE$"
+      ],
+      "brand": "Vans",
+      "availableColors": ["Black/White", "Navy", "Red"],
+      "availableSizes": [6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 12.0],
+      "isNewArrival": false,
+      "popularity": 4.7,
+      "reviews": [
+        {
+          "userName": "SkaterGirl",
+          "rating": 5.0,
+          "comment": "Versatile, durable, and never goes out of style.",
+          "date": "2023-04-15T14:20:00.000Z"
+        },
+        {
+          "userName": "CasualDude",
+          "rating": 4.5,
+          "comment": "Great everyday shoes. Comfortable after breaking in.",
+          "date": "2023-05-05T10:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Air Jordan 1",
+      "description": "The Air Jordan 1 is the shoe that started it all. Introduced in 1985 and designed by Peter Moore, this iconic silhouette is known for its memorable colorways and classic design that has stood the test of time.",
+      "price": 170.00,
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a3cc5e6c-c3c4-4196-a9dc-57b25a7a67bd/air-jordan-1-mid-shoes-SQf7DM.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2c8747c5-4991-4a57-b19b-99e4acc950ce/air-jordan-1-mid-shoes-SQf7DM.png"
+      ],
+      "brand": "Nike",
+      "availableColors": ["White/Black", "Chicago", "Royal Blue"],
+      "availableSizes": [7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5, 12.0],
+      "isNewArrival": false,
+      "popularity": 4.9,
+      "reviews": [
+        {
+          "userName": "SneakerHead",
+          "rating": 5.0,
+          "comment": "The GOAT of basketball shoes. Every collection needs these.",
+          "date": "2023-03-10T11:15:00.000Z"
+        },
+        {
+          "userName": "BasketballFan",
+          "rating": 5.0,
+          "comment": "Iconic look and surprisingly comfortable for daily wear.",
+          "date": "2023-04-20T15:40:00.000Z"
+        }
+      ]
+    }
+  ]
+} 
