@@ -51,15 +51,24 @@
 </ul>
 
 <h2>🚀 Getting Started</h2>
-<p>Follow these simple steps to run the project on your device:</p>
+<p>Follow these simple steps to set up and run the project locally:</p>
+
 <ol>
-  <li>🔗 <strong>Clone this repo:</strong> <br/>
-    <code>git clone https://github.com/harshsobhashana/Shoes_App.git</code>
-  </li>
-  <li>📂 <strong>Open the project</strong> in your favorite IDE (like VS Code or Android Studio).</li>
-  <li>📦 <strong>Get packages:</strong> Run <code>flutter pub get</code> in the terminal.</li>
-  <li>▶️ <strong>Launch the app:</strong> Run <code>flutter run</code> on an emulator or physical device.</li>
+  <li><strong>📥 Clone the repository</strong></li>
+  <pre><code>git clone https://github.com/harshsobhashana/Shoes_App.git</code></pre>
+
+  <li><strong>📂 Navigate into the project directory</strong></li>
+  <pre><code>cd Shoes_App</code></pre>
+
+  <li><strong>📦 Get all the Flutter dependencies</strong></li>
+  <pre><code>flutter pub get</code></pre>
+
+  <li><strong>▶️ Run the app on your emulator or connected device</strong></li>
+  <pre><code>flutter run</code></pre>
 </ol>
+
+<p>✨ That's it! You're now ready to explore the beautiful UI of the Shoes App.</p>
+
 
 <h2>💡 Use Cases</h2>
 <ul>
